@@ -14,11 +14,7 @@ Because the app is not notarized, macOS Gatekeeper will probably block it the fi
 
 If that happens:
 
-1. Try opening the app once.
-2. Open **System Settings**.
-3. Go to **Privacy & Security**.
-4. Scroll down and look for the message about the blocked app.
-5. Click **Open Anyway** and confirm.
+Run this: `xattr -dr com.apple.quarantine /Applications/Speedtest.app`
 
 ## Secret settings
 
