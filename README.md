@@ -35,3 +35,11 @@ There you can:
 
 The app will use values in that range to generate fake speed test results.  
 Good for trolling your friends and pretending your internet is either god tier or held together with duct tape.
+
+
+
+## License
+
+Fake Speedtest is licensed under the Fake Speedtest License.  
+Free to use and redistribute, credit required for redistribution.  
+See `LICENSE` for full details.
